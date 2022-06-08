@@ -16,7 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from app import views
-from django.urls import include,re_path
+from django.urls import include
 from django.conf import settings
 from django.conf.urls.static import static
 
@@ -33,7 +33,6 @@ urlpatterns = [
     path('book/<int:pk>/update/', views.BookUpdate, name='book_update'),
     path('book/<int:pk>/delete/', views.BookDelete, name='book_delete'),
 
-    # re_path(r'^search_b/', views.search_book, name="search_b"),
     path('accounts/', include('django.contrib.auth.urls')),
 ]
 
