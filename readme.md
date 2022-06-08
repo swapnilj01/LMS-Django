@@ -75,24 +75,24 @@ Driver - django.db.backends.mysql
 ### Screenshots
 
 1. Site landing page
-![Site landing page](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Site landing page](https://github.com/swapnilj01/LMS-Django/blob/main/screenshots/1.png?raw=true)
 
 
 2. Books list view
-![Books list view](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Books list view](https://github.com/swapnilj01/LMS-Django/blob/main/screenshots/2.png?raw=true)
 
 
 3. Login Page
-![Login Page](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Login Page](https://github.com/swapnilj01/LMS-Django/blob/main/screenshots/3.png?raw=true)
 
 
 4. Landing page if Admin logs in
-![Landing page if Admin logs in](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Landing page if Admin logs in](https://github.com/swapnilj01/LMS-Django/blob/main/screenshots/4.png?raw=true)
 
 
 5. Adding a book
-![Adding a book](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Adding a book](https://github.com/swapnilj01/LMS-Django/blob/main/screenshots/5.png?raw=true)
 
 
 6. Adding a student
-![Adding a student](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Adding a student](https://github.com/swapnilj01/LMS-Django/blob/main/screenshots/6.png?raw=true)
